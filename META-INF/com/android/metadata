@@ -1,0 +1,3 @@
+post-build=samsung/cm_vivalto3mveml/vivalto3mveml:4.4.4/KTU84Q/fdaab2bbf0:userdebug/test-keys
+post-timestamp=1468241416
+pre-device=vivalto3mveml
